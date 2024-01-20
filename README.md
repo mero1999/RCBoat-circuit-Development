@@ -49,3 +49,13 @@
   
   2 * Servo Motors for direction and trim control
   
+****Future Updates****:
+
+  Improve the UI
+  
+  Add speed control based on GPS speed
+  
+  Add location-saving feature and auto-drive functionality
+  
+  Implement RPM measuring for the DC motor using the photo-interrupter circuit
+  
